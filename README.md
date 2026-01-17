@@ -1,4 +1,2 @@
-# rndproj-togermua
-
-Random java project for sample.
-
+# rndproj-togermua\n\nMinimal HTTP API for status checks.\n
+New-FileDef
